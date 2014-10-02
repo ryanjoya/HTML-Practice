@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ryu Hayabusa</title>
+	</head>
+	<body><img src="http://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg" />
+	<p>
+	<ul>
+	<li>Birthday: June 15</li>
+	<li>Gender: Male</li>
+	<li>Nationality: Japanese</li>
+	</ul>
+	</p>
+	<ul>
+	    <li>Height: 5'10<em>"</em></li>
+	    <li>Weight: 172 lbs</li>
+	    <li stlye="font-size:16">Affiliation: Hayabusa Ninja Clan</li>
+	    <ul>
+	        <li>Occupation: Antique Store Owner</li>
+	        <li style="font-family:Ryumin Light-KL">Rank: <strong>Master Ninja</strong></li>
+	    </ul>
+	    <li>Previous Partners:</li>
+	    <ol>
+	        <li style="color:red">Mizuki McCloud</li> 
+            <li>Rachel</li> 
+            <li>Ayane</li> 
+            <li>Momiji</li>
+	</ul>
+	</body>
+</html>
